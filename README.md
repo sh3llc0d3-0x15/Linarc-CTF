@@ -6,7 +6,7 @@
 **LINARC CTF** · Web · Very Easy
 
 *Write-up por [sh3llc0d3](https://github.com/sh3llc0d3-0x15)*
-*Discord Server: https://discord.gg/linarc*
+*https://discord.gg/linarc*
 
 </div>
 
